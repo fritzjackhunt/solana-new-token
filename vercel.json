@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "api/monitor.js",
+        "use": "@vercel/node"
+      }
+    ]
+  }
